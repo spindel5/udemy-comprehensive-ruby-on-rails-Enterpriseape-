@@ -33,3 +33,14 @@ gem 'spring',        group: :development
 
 gem 'bootstrap-sass', '~> 2.3.1.0'
 
+gem 'devise'
+
+gem 'responders'
+
+gem 'actionmailer'
+
+gem 'actionpack'
+gem 'actionview'
+gem 'activejob'
+gem 'mail'
+gem 'rails-dom-testing'
